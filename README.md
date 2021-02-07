@@ -1,2 +1,9 @@
 # Rat-in-Maze-Web-Application
-A web-application using React that implements all the possible paths to reach the destination from source.
+
+## Introduction
+> A web-application using React that implements a way to visualize the famous Rat in Maze problem which is solved by backtracking.
+
+## Technology Used
+- React
+- ES6 Javascript
+- Data Structures and Algorithm
